@@ -1,4 +1,4 @@
-{:name        "TAI Demo Part 1"
+{:name        "Tentacular AI Formal Model Demo Part 1"
 
  :description "Part 1 of the TAI Demo"
 
